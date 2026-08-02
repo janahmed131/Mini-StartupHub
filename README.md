@@ -1,2 +1,18 @@
 # Mini-StartupHub
-A role-based Startup Collaboration Platform developed in Python. The system enables founders, freelancers, and investors to collaborate through project management, applications, investments, ratings, badges, and a dashboard for project statistics using JSON, Pandas, Tabulate, and Matplotlib.
+
+A role-based CLI Startup Collaboration Platform developed using Python.
+
+## Features
+- Founder: Create, edit, delete, and manage projects.
+- Freelancer: Browse projects, apply with a cover letter, track earnings, ratings, and badges.
+- Investor: Browse projects, invest, and track investments.
+- Dashboard: Project statistics using Pandas, Matplotlib, and Tabulate.
+
+## Technologies
+- Python
+- OOP
+- JSON
+- Pandas
+- Matplotlib
+- Tabulate
+
