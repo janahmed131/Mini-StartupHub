@@ -1,0 +1,32 @@
+[
+   {
+      "investor": "marwan",
+      "project": "AI Healthcare",
+      "amount": 3000.0,
+      "date": "2026-07-30"
+   },
+   {
+      "investor": "marwan",
+      "project": "E-Commerce Website",
+      "amount": 2000.0,
+      "date": "2026-07-30"
+   },
+   {
+      "investor": "sara",
+      "project": "Smart Learning",
+      "amount": 2500.0,
+      "date": "2026-07-30"
+   },
+   {
+      "investor": "sara",
+      "project": "Food Delivery",
+      "amount": 1500.0,
+      "date": "2026-07-30"
+   },
+   {
+      "investor": "sara",
+      "project": "market system",
+      "amount": 4000.0,
+      "date": "2026-07-31"
+   }
+]

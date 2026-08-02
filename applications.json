@@ -1,0 +1,38 @@
+[
+   {
+      "freelancer_name": "yousef",
+      "project_id": 1,
+      "cover_letter": "Experienced Python developer.",
+      "status": "Accepted"
+   },
+   {
+      "freelancer_name": "fatma",
+      "project_id": 2,
+      "cover_letter": "Ready to work.",
+      "status": "Accepted"
+   },
+   {
+      "freelancer_name": "mohamed",
+      "project_id": 1,
+      "cover_letter": "Skilled in web development.",
+      "status": "Accepted"
+   },
+   {
+      "freelancer_name": "fatma",
+      "project_id": 5,
+      "cover_letter": "Experienced Python developer",
+      "status": "Accepted"
+   },
+   {
+      "freelancer_name": "yousef",
+      "project_id": 4,
+      "cover_letter": "Skilled in web development.",
+      "status": "Accepted"
+   },
+   {
+      "freelancer_name": "yousef",
+      "project_id": 4,
+      "cover_letter": "Experienced developer",
+      "status": "Pending"
+   }
+]

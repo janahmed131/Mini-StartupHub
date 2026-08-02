@@ -1,0 +1,59 @@
+[
+   {
+      "project_id": 2,
+      "project_name": "E-Commerce Website",
+      "category": "Web",
+      "description": "Online shopping website.",
+      "required_skills": [
+         "HTML",
+         "CSS",
+         "JavaScript"
+      ],
+      "budget": 3000.0,
+      "funding_goal": 6000.0,
+      "status": "Completed",
+      "founder_email": "ahmed@gmail.com"
+   },
+   {
+      "project_id": 3,
+      "project_name": "Smart Learning",
+      "category": "Education",
+      "description": "Online learning platform.",
+      "required_skills": [
+         "Python",
+         "SQL"
+      ],
+      "budget": 4000.0,
+      "funding_goal": 8000.0,
+      "status": "Open",
+      "founder_email": "nour@gmail.com"
+   },
+   {
+      "project_id": 4,
+      "project_name": "Food Delivery",
+      "category": "Business",
+      "description": "Food ordering and delivery app",
+      "required_skills": [
+         "python",
+         "sql"
+      ],
+      "budget": 4500.0,
+      "funding_goal": 5000.0,
+      "status": "Open",
+      "founder_email": "ahmed@gmail.com"
+   },
+   {
+      "project_id": 5,
+      "project_name": "market system",
+      "category": "business",
+      "description": "market management system",
+      "required_skills": [
+         "css",
+         "html"
+      ],
+      "budget": 5500.0,
+      "funding_goal": 6000.0,
+      "status": "Open",
+      "founder_email": "ahmed@gmail.com"
+   }
+]
